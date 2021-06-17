@@ -1,0 +1,23 @@
+h1 {
+   color: brown;
+}
+
+.rhead{
+    border:solid;
+    display:flex;
+    justify-content:space-between
+
+}
+.new1{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap
+}
+.chead{
+    text-align:center
+}
+.rsocial{
+    display:flex;
+    justify-content:flex-end
+}
+
